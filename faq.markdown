@@ -5,6 +5,9 @@
 layout: page 
 title: FAQ
 ---
+## What is your ticker?
+
+DRDR
 
 ## How does it work?
 
