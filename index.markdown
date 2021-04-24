@@ -3,4 +3,25 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
+
+We maintain secure, profitable and professional pools and reward our delegators in a **fun** and **exclusive** way! DRDR delegators will be rewarded and have access to exclusive sales of fantasy-themed collectable **Pixel Tiles tokens** that you can trade and use to build beautiful pixel art dioramas!
+
+![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example.png)
+
+![Pixel Tile Tavern Example 1](/assets/img/tiles-example-1.png)
+
+The **Pixel Tiles tokens** will be **exclusively** rewarded to Drunken Dragon Pool delegators and **also** offered exclusive sales. 
+
+Pixel Tile tokens will be similar to Pokemon or Yu-Gi-Oh cards, limited quantity with some much rarer than others. See the [FAQ](/faq.html).
+
+The profit of the pool and exclusive token sales will be used for:
+
+* To develop an app to build the dioramas and trade Pixel Tiles
+* To generate free Cardano Plutus smart contract educational content
+* And for the development of a decentralized governance solution for open source projects
+
+Therefore delegating with a Drunken Dragon Pool and trading Pixel Tile tokens will be a direct investment to the Cardano ecosystem and community! (More information to come)
+
+![Pixel Tile Tavern Diorama 2](/assets/img/plains-diorama-example.png)
