@@ -6,7 +6,7 @@ layout: page
 title: Links
 ---
 
-[Twitter](https://twitter.com/DRDRCardanoPool)
+[Twitter](https://twitter.com/DNDCardanoPool)
 
 [Cardano Scan](https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551) 
 
