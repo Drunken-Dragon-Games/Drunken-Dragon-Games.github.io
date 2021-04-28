@@ -13,8 +13,8 @@ title: Ticker DND
 We maintain secure, profitable and professional pools and reward our delegators in a **fun** and **exclusive** way! DND pool delegators will be rewarded and have access to exclusive sales of fantasy-themed collectable **Pixel Tiles tokens** that you can trade and use to build beautiful pixel art dioramas!
 
 ![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example.png)
-
-![Pixel Tile Tavern Example 1](/assets/img/tiles-example-1.png)
+![Pixel Tile Tavern Example 1](/assets/img/pixel-tiles-examples-1.png)
+![Pixel Tile Tavern Example 2](/assets/img/pixel-tiles-examples-2.png)
 
 The **Pixel Tiles tokens** will be **exclusively** rewarded to Drunken Dragon Pool delegators and **also** offered exclusive sales. 
 
