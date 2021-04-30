@@ -7,11 +7,11 @@ title: FAQ
 ---
 ## What is your ticker?
 
-DRDR
+DND
 
 ## How does it work?
 
-The list of wallet addresses that delegate to DRDR is public and registered in the blockchain hence the rewards will arrive automatically, in the same manner, the exclusive token sales will be limited to wallets that delegate to DRDR. The exact reward rules will be published shortly before releasing the first collection, but be sure that we will reward loyal delegators and supporters!
+The list of wallet addresses that delegate to DND Pool is public and registered in the blockchain hence the rewards will arrive automatically, in the same manner, the exclusive token sales will be limited to wallets that delegate to DND Pool. The exact reward rules will be published shortly before releasing the first collection, but be sure that we will reward loyal delegators and supporters!
 
 * We will mint 1 collection of Pixel Tiles per season. 
 * Each collection will be exclusive and we will never mint more of the same "theme" again.
