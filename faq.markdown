@@ -10,9 +10,10 @@ title: FAQ
 
 DND
 
-## Who is maintaining the pool and developing the tokens?
+## Who is maintaining the pool and developing PixelTiles?
 
 ![Vledic](/assets/img/vledic.jpg)
+[@francoaramburo](https://twitter.com/francoaramburo)
 
 My nickname is Vledic, full name Francisco and Franco for short, I am a professional functional programmer and independent backend contractor with more than 10 years of experience doing things like: 
 
