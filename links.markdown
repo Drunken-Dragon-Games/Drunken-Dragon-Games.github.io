@@ -6,8 +6,10 @@ layout: page
 title: Links
 ---
 
-[Twitter](https://twitter.com/DNDCardanoPool)
+## [Twitter](https://twitter.com/DNDCardanoPool)
 
-[Cardano Scan](https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551) 
+## [Discord](https://discord.gg/rwY7Vsjcnr)
 
-[Pool Tool](https://pooltool.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551/epochs)
+## [Cardano Scan](https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551) 
+
+## [Pool Tool](https://pooltool.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551/epochs)

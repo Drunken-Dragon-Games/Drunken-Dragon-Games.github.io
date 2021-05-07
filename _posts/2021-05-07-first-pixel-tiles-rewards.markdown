@@ -5,7 +5,9 @@ date:   2021-05-07 19:10:00 +0200
 categories: update
 ---
 
-Hello adventurers, `Vledic | Franco` here, earlier this week we minted our first 10 Pixel Tiles (working on more!), and as promised we have rewarded our first 8 delegators with 3 random PixelTiles each! Check the links below to see who received what, thanks to Smaug Pool for developing the tool. Also I would like to state how happy I am of being part of the Cardano community, I see much happening fruit of emotions of love, I have met many inspiring persons, not just Charles Hoskinson with his strong leadership but so many individuals moved by the vision of a better, more fair and exciting future. I only hope to be a possitive actor in this movement.
+![First PixelTiles Banner](/assets/img/first-pixeltiles-banner.png)
+
+Hello adventurers, **Vledic Franco** here, earlier this week we minted our first 10 Pixel Tiles (working on more!), and as promised we have rewarded our first 8 delegators with 3 random PixelTiles each! Check the links below to see who received what, thanks to Smaug Pool for developing the tool. Also I would like to state how happy I am of being part of the Cardano community, I see much happening fruit of emotions of love, I have met many inspiring persons, not just Charles Hoskinson with his strong leadership but so many individuals moved by the vision of a better, more fair and exciting future. I only hope to be a possitive actor in this movement.
 
 * [Wallet addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9](https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9)
 * [Wallet addr1q86dqhgazpkslz4n02gwh2m7mms9uynz2cglnmanflh6f76uhepkjj46m7d8zy0ql7r2lwp78tme7a324dktmtkpnqfqd06aal](https://pool.pm/addr1q86dqhgazpkslz4n02gwh2m7mms9uynz2cglnmanflh6f76uhepkjj46m7d8zy0ql7r2lwp78tme7a324dktmtkpnqfqd06aal)
@@ -30,7 +32,7 @@ For now yes, we might change how we reward them but for now I used this distribu
 
 ## What are the PixelTiles rarities?
 
-Similar to popular RPGs/MMORPGs it is based on colors, each color represent how many PixelTiles of this type will be minted once and only once, for example right now it only exists 100 `PixelTile #3 Necromancer` and never will ever exist more under the same policy.
+Similar to popular RPGs/MMORPGs it is based on colors, each color represent how many PixelTiles of this type will be minted once and only once, for example right now it only exists 100 **PixelTile #3 Necromancer** and never will ever exist more under the same policy.
 
 * Common - Gray (1000 minted)
 * Uncommon - Green (500 minted)
@@ -47,9 +49,9 @@ We will always keep at least 1 of each for record reasons, and can be seen in th
 
 Use Smaug Pool's tool https://pool.pm/, you can simply copy any of your "receiving wallets" from Daedalus and append it on the url address like so: 
 
-Imagine one of your Daedalus receiving addresses is `addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9`
+Imagine one of your Daedalus receiving addresses is **addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9**
 
-then you append it to the https://pool.pm/ like this: `https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9`
+then you append it to the https://pool.pm/ like this: **https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9**
 
 ## I have a question, how can I contact the Drunken Dragon Pool team?
 

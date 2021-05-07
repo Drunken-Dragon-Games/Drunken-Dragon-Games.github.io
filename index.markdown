@@ -6,19 +6,21 @@ layout: home
 title: Ticker DND
 ---
 
-[DND on Cardano Scan](https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551) 
+### [DND on Cardano Scan](https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551) 
 
-[DND on PoolTool](https://pooltool.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551/epochs)
+### [DND on PoolTool](https://pooltool.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551/epochs)
+
+### [Discord](https://discord.gg/rwY7Vsjcnr)
 
 We maintain secure, profitable and professional pools and reward our delegators in a **fun** and **exclusive** way! DND pool delegators will be rewarded and have access to exclusive sales of fantasy-themed collectable **Pixel Tiles tokens** that you can trade and use to build beautiful pixel art dioramas!
 
 ![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example-1.png)
-![Pixel Tile Tavern Example 1](/assets/img/pixel-tiles-examples-1-glow.png)
-![Pixel Tile Tavern Example 2](/assets/img/pixel-tiles-examples-2-glow.png)
+![First PixelTiles Banner](/assets/img/first-pixeltiles-banner.png)
+## [Click here to see on-chain the PixelTiles Collection](https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8)
 
-The **Pixel Tiles tokens** will be **exclusively** rewarded to Drunken Dragon Pool delegators and **also** offered exclusive sales. 
+The **Pixel Tiles tokens** are **exclusively** rewarded to Drunken Dragon Pool delegators and **also** offered exclusive sales. 
 
-Pixel Tile tokens will be similar to Pokemon or Yu-Gi-Oh cards, limited quantity with some much rarer than others. See the [FAQ](/faq.html).
+Pixel Tile tokens are similar to Pokemon or Yu-Gi-Oh cards, limited quantity with some much rarer than others, all of limited quantity assured by the Cardano blockchain. See the [FAQ](/faq.html).
 
 The profit of the pool and exclusive token sales will be used for:
 
