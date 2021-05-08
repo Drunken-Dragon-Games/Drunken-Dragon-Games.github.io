@@ -3,16 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Ticker DND
+title: Cardano Stake Pool and PixelTiles Collectibles
 ---
 
-### [DND on Cardano Scan](https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551) 
-
-### [DND on PoolTool](https://pooltool.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551/epochs)
-
-### [Discord](https://discord.gg/rwY7Vsjcnr)
-
-We maintain secure, profitable and professional pools and reward our delegators in a **fun** and **exclusive** way! DND pool delegators will be rewarded and have access to exclusive sales of fantasy-themed collectable **Pixel Tiles tokens** that you can trade and use to build beautiful pixel art dioramas!
+We maintain secure, profitable and professional pools and reward our delegators in a **fun** and **exclusive** way! DND pool delegators will be rewarded and have access to exclusive sales of fantasy-themed crypto collectable **Pixel Tiles tokens** that you can trade and use to build beautiful pixel art dioramas!
 
 ![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example-1.png)
 ![First PixelTiles Banner](/assets/img/first-pixeltiles-banner.png)

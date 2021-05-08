@@ -13,6 +13,7 @@ $spacing-unit:     30px !default;
 $text-color:       rgb(255, 255, 255) !default;
 $background-color: #1f242b !default;
 $brand-color:      #ffcf40 !default;
+$brand-color-dark: darken($brand-color, 25%) !default;
 
 $grey-color:       #ffd591 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -47,5 +48,6 @@ $on-laptop:        800px !default;
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "dnd/components.scss"
 ;

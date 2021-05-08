@@ -1,0 +1,15 @@
+
+/* Buttons */
+
+.buttons-container {
+    margin: 10px 0px;
+    display: flex;
+}
+
+.button {
+    color: $grey-color-light !important;
+    background-color: $brand-color-dark;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
