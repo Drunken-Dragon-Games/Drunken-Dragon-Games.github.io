@@ -10,7 +10,7 @@ We maintain secure, profitable and professional pools and reward our delegators 
 
 ![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example-1.png)
 ![First PixelTiles Banner](/assets/img/first-pixeltiles-banner.png)
-## [Click here to see on-chain the PixelTiles Collection](https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8)
+[Current on-chain PixelTiles Collection](https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8){:.Button }
 
 The **Pixel Tiles tokens** are **exclusively** rewarded to Drunken Dragon Pool delegators and **also** offered exclusive sales. 
 
@@ -23,5 +23,3 @@ The profit of the pool and exclusive token sales will be used for:
 * And for the development of a decentralized governance solution for open source projects
 
 Therefore delegating with a Drunken Dragon Pool and trading Pixel Tile tokens will be a direct investment to the Cardano ecosystem and community! (More information to come)
-
-![Pixel Tile Tavern Diorama 2](/assets/img/plains-diorama-example.png)

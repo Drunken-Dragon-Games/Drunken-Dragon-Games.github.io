@@ -6,6 +6,8 @@ layout: page
 title: Links
 ---
 
+[Current on-chain PixelTiles Collection](https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8){:.button }
+
 [Twitter](https://twitter.com/DNDCardanoPool){:.button }
 
 [Discord](https://discord.gg/rwY7Vsjcnr){:.button }
