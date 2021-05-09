@@ -5,7 +5,7 @@ date:   2021-05-07 19:10:00 +0200
 categories: update
 ---
 
-![First PixelTiles Banner](/assets/img/first-pixeltiles-banner.png)
+![First PixelTiles Banner](/assets/mints-banners/m1-banner.png)
 
 Hello adventurers, **Vledic Franco** here, earlier this week we minted our first 10 Pixel Tiles (working on more!), and as promised we have rewarded our first 8 delegators with 3 random PixelTiles each! Check the links below to see who received what, thanks to Smaug Pool for developing the tool. Also I would like to state how happy I am of being part of the Cardano community, I see much happening fruit of emotions of love, I have met many inspiring persons, not just Charles Hoskinson with his strong leadership but so many individuals moved by the vision of a better, more fair and exciting future. I only hope to be a possitive actor in this movement.
 
