@@ -57,6 +57,7 @@ Similar to popular RPGs/MMORPGs it is based on colors, each color represent how 
 * Uncommon - Green (500 minted)
 * Rare - Blue (250 minted)
 * Epic - Purple (100 minted)
+* Legendary - Orange (10 minted)
 
 ## How can I see the current collection?
 
