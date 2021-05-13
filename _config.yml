@@ -21,7 +21,7 @@
 title: Drunken Dragon Pool
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Delegate with us and win fantasy themed crypto collectibles! Drunken Dragon Pool is a Cardano
+  Delegate with us and be rewarded with fantasy-themed crypto collectables! Drunken Dragon Pool is a Cardano
   Stake Pool that makes investing in the decentralisation of Cardano profitable and fun.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.drunkendragon.games" # the base hostname & protocol for your site, e.g. http://example.com

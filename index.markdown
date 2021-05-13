@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Cardano Stake Pool and PixelTiles Collectibles
+title: Cardano Stake Pool and PixelTiles Collectables
 ---
 
 ### Secure, profitable and professional [Cardano Stake Pools](https://cardano.org/stake-pool-delegation/), we reward delegators with fantasy-themed crypto collectable **PixelTiles** that you can trade and use to build beautiful pixel art dioramas.
