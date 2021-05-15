@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PixelTiles Rewarded! 2021-05-15"
-date:   2021-05-07 08:50:00 +0200
+date:   2021-05-15 10:00:00 +0200
 categories: 
 - update
 - reward-date
