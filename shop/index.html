@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <div id="app">Loading...</div>
+    <script src="app.js"></script>
+    <script>
+        var app = Elm.Main.init({
+            flags: {
+                innKeeperConfig: {
+                    origin: "http://www.drunkendragon.games/",
+                    baseUri: "http://inn-keeper.drunkendragon.games:13371"
+                }
+            }
+        });
+        app.ports.copyToClipboard.subscribe((str) => {
+            const el = document.createElement('textarea');
+            el.value = str;
+            el.setAttribute('readonly', '');
+            el.style.position = 'absolute';
+            el.style.left = '-9999px';
+            document.body.appendChild(el);
+            el.select();
+            console.log(el.value)
+            document.execCommand('copy');
+            document.body.removeChild(el);
+        });
+    </script>
+</body>
