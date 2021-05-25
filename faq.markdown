@@ -10,12 +10,28 @@ title: FAQ
 
 DND
 
+## What are the PixelTiles rarities?
+
+Similar to popular RPGs/MMORPGs it is based on colours, each colour represents how many PixelTiles of this type will be minted once and only once, for example, right now it only exists 100 **PixelTile #3 Necromancer** and never will ever exist more under the same policy.
+
+* Common - Gray (1000 minted)
+* Uncommon - Green (500 minted)
+* Rare - Blue (250 minted)
+* Epic - Purple (100 minted)
+* Legendary - Orange (10 minted)
+
+## How can I see the current collection?
+
+We will always keep at least 1 of each for record reasons and can be seen in the Drunken Dragon Pool (DND) owner wallet.
+
+[Wallet stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8](https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8)
+
 ## Who is maintaining the pool and developing PixelTiles?
 
 ![Vledic](/assets/img/vledic.jpg)
 [@francoaramburo](https://twitter.com/francoaramburo)
 
-My nickname is Vledic, full name Francisco and Franco for short, I am a professional functional programmer and independent backend contractor with more than 10 years of experience doing things like: 
+My nickname is Vledic, name Francisco and Franco for short, I am a professional functional programmer and independent backend contractor with more than 10 years of experience doing things like: 
 
 * Creating and maintaining complex backend systems for clients like ING, FedEx/TNT and Audi. 
 * Teaching and training in functional programming both for free and paid.
@@ -25,7 +41,7 @@ Besides maintaining the Drunken Dragon Pool, I am part of the Plutus Pioneer Pro
 
 ## How do the PixelTiles rewards work?
 
-The list of wallet addresses that delegate to DND Pool is public and registered in the blockchain hence the rewards will arrive automatically. 
+[Check the rules here](/rewards)
 
 ## Are these similar to NFTs?
 
@@ -43,27 +59,7 @@ There is currently a minimum Ada requirement for every transaction to prevent ga
 
 ## How often are the PixelTiles rewards happening?
 
-Due to the minimum Ada requirements, I have decided to send 3 PixelTiles twice per month (around every 3rth Cardano epoch).
-
-## Are they randomly rewarded?
-
-For now yes, we might change how we reward them but for now I used this distribution: www.drunkendragon.games/data/pixeltiles-distribution.txt
-
-## What are the PixelTiles rarities?
-
-Similar to popular RPGs/MMORPGs it is based on colours, each colour represents how many PixelTiles of this type will be minted once and only once, for example, right now it only exists 100 **PixelTile #3 Necromancer** and never will ever exist more under the same policy.
-
-* Common - Gray (1000 minted)
-* Uncommon - Green (500 minted)
-* Rare - Blue (250 minted)
-* Epic - Purple (100 minted)
-* Legendary - Orange (10 minted)
-
-## How can I see the current collection?
-
-We will always keep at least 1 of each for record reasons and can be seen in the Drunken Dragon Pool (DND) owner wallet.
-
-[Wallet stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8](https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8)
+[Check the rules here](/rewards)
 
 ## How can I see my PixelTiles?
 
