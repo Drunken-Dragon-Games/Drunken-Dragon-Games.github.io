@@ -6,7 +6,7 @@ layout: home
 title: Cardano Stake Pool and PixelTiles Collectables
 ---
 
-### Secure, profitable and professional [Cardano Stake Pools](https://cardano.org/stake-pool-delegation/), we [reward](/rewards) delegators with fantasy-themed crypto collectable **PixelTiles** that you can trade and use to build beautiful pixel art dioramas.
+### Secure, profitable and professional [Cardano Stake Pool](https://cardano.org/stake-pool-delegation/), we [reward](/rewards) delegators with fantasy-themed crypto collectable **PixelTiles** that you can trade and use to build beautiful pixel art dioramas.
 
 ![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example-1.png)
 ![PixelTiles Banner](/assets/mints-banners/m2-banner.png)
