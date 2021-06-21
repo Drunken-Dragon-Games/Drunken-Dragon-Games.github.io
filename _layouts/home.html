@@ -5,18 +5,14 @@ layout: default
 <div class="home">
 
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+    <h1 class="page-heading" style="text-align: center;">{{ page.title }}</h1>
   {%- endif -%}
 
-  <div class="buttons-container">
-    <a class="button" href="/shop">PixelTiles Shop</a>
-    <a class="button" href="https://pool.pm/stake1uxscpegn4t2as6qwqupm5t00et2gs95qm5fwx7gyz0246wqg5xhh8/f4988f54">PixelTiles Collection</a>
-    <a class="button" href="https://cardanoscan.io/pool/0084f4fee5502c87ee5c4f5c592856f2bfb6269355b9d87ed549e551">DND on Cardano Scan</a>
-    <a class="button" href="https://discord.gg/rwY7Vsjcnr">Discord</a>
-  </div>
-  
-
+  <div style="text-align: center;">
   {{ content }}
+  </div>
+
+  <img alt="Pixel Tile Tavern Diorama 2" src="/assets/img/plains-diorama-example.png"/>
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
@@ -39,8 +35,5 @@ layout: default
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
-
-
-  <img alt="Pixel Tile Tavern Diorama 2" src="/assets/img/plains-diorama-example.png"/>
 
 </div>
