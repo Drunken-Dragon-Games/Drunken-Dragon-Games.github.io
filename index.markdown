@@ -8,6 +8,8 @@ title: Welcome Traveler
 
 ### Here at the Drunken Dragon we are a secure, profitable and professional [Cardano Stake Pool](https://cardano.org/stake-pool-delegation/), we [reward](/rewards) delegators with fantasy-themed crypto collectable PixelTiles that you can trade and use to build beautiful pixel art dioramas.
 
+### **Game under development**, you will use your Pixel Tiles to build fantasy worlds!
+
 ![Pixel Tile Tavern Diorama 1](/assets/img/tavern-diorama-example-1.png)
 ![PixelTiles Banner](/assets/mints-banners/m2-banner.png)
 

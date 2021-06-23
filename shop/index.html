@@ -14,13 +14,24 @@
     <script>
         var app = Elm.Main.init({
             flags: {
-                amountPerPack: 3,
-                innKeeperConfig: {
-                    origin: "https://www.drunkendragon.games/",
-                    baseUri: "https://inn-keeper.drunkendragon.games:13371",
-                    shop: "/shop/pixeltiles"
+                adventurers: {
+                    amountPerPack: 3,
+                    innKeeperConfig: {
+                        origin: "https://www.drunkendragon.games/",
+                        baseUri: "https://inn-keeper.drunkendragon.games:13371",
+                        shop: "/shop/pixeltiles"
+                    },
+                    partnerProject: null
                 },
-                partnerProject: null
+                furniture: {
+                    amountPerPack: 3,
+                    innKeeperConfig: {
+                        origin: "https://www.drunkendragon.games/",
+                        baseUri: "https://inn-keeper.drunkendragon.games:13371",
+                        shop: "/shop/furniture-packs"
+                    },
+                    partnerProject: null
+                }
             }
         });
         app.ports.copyToClipboard.subscribe((str) => {
