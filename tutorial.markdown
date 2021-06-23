@@ -18,6 +18,9 @@ title: Get Started
 		text-align: justify;
 		margin: 30px 0px;
 	}
+	.no-justify {
+		text-align: left !important;
+	}
 	.img-container {
 		text-align: center;
 	}
@@ -139,6 +142,7 @@ Rewards are sent automatically out when the raffle drawing happens, When you rec
 {:.top-container}
 [Top](#table-of-content)
 
+{:.no-justify}
 Every 1st and 15th of the month.
 
 ### Can't wait for the raffle?
@@ -146,6 +150,7 @@ Every 1st and 15th of the month.
 {:.top-container}
 [Top](#table-of-content)
 
+{:.no-justify}
 You can buy packs here then! [www.drunkendragon.games/shop](https://www.drunkendragon.games/shop/)
 
 {:.img-container}
@@ -158,8 +163,10 @@ You can buy packs here then! [www.drunkendragon.games/shop](https://www.drunkend
 
 Use Smaug Pool’s tool [https://pool.pm/](https://pool.pm/), you can simply copy any of your “receiving wallets” from Daedalus and append it on the URL address like so:
 
+{:.no-justify}
 Imagine one of your Daedalus receiving addresses is addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9
 
+{:.no-justify}
 then you append it to the [https://pool.pm/](https://pool.pm/) like this: [https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9](https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9)
 
 {:.img-container}
