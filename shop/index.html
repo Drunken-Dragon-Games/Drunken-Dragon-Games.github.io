@@ -10,8 +10,32 @@
 </head>
 <body>
     <div id="app">Loading...</div>
+	<script>
+		const elmConfig = {
+			adventurers: {
+				amountPerPack: 3,
+				innKeeperConfig: {
+					origin: "https://www.drunkendragon.games/",
+					baseUri: "https://inn-keeper.drunkendragon.games:13371",
+					shop: "/shop/pixeltiles"
+				},
+				partnerProject: null
+			},
+			furniture: {
+				amountPerPack: 3,
+				innKeeperConfig: {
+					origin: "https://www.drunkendragon.games/",
+					baseUri: "https://inn-keeper.drunkendragon.games:13371",
+					shop: "/shop/furniture-packs"
+				},
+				partnerProject: null
+			}
+		}
+	</script>
     <script src="app.js"></script>
+    <script src="scripts.js"></script>
     <script>
+		/*
         var app = Elm.Main.init({
             flags: {
                 adventurers: {
@@ -46,5 +70,6 @@
             document.execCommand('copy');
             document.body.removeChild(el);
         });
+		*/
     </script>
 </body>

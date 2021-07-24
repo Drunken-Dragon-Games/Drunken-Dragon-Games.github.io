@@ -12,6 +12,8 @@ body {
 
 .main-container {
     min-height: 100vh;
+    max-width: 1400px !important;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
     text-align: center;
     color: white;
     background-color: #1F242BFF;
