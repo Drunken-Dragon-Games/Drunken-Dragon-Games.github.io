@@ -164,10 +164,10 @@ You can buy packs here then! [www.drunkendragon.games/shop](https://www.drunkend
 Use Smaug Pool’s tool [https://pool.pm/](https://pool.pm/), you can simply copy any of your “receiving wallets” from Daedalus and append it on the URL address like so:
 
 {:.no-justify}
-Imagine one of your Daedalus receiving addresses is addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9
+Imagine one of your Daedalus receiving addresses is addr1q97yag0kmf5zhy2jtcw4kpwme93a5n6r6lw64ch6fmueuv8lzzaq6vf0y09z2ksj00zkmvxcpmx68ftk5lrsvnglasqqffhknm
 
 {:.no-justify}
-then you append it to the [https://pool.pm/](https://pool.pm/) like this: [https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9](https://pool.pm/addr1q92ud207pzspdpt8ywptmv8wlg26l8syh0ayk48rp90ltegufvhswpdcca36zk44q2u6qnkqf283fv8yshgkk3x4ffds2lpws9)
+then you append it to the [https://pool.pm/](https://pool.pm/) like this: [https://pool.pm/addr1q97yag0kmf5zhy2jtcw4kpwme93a5n6r6lw64ch6fmueuv8lzzaq6vf0y09z2ksj00zkmvxcpmx68ftk5lrsvnglasqqffhknm](https://pool.pm/addr1q97yag0kmf5zhy2jtcw4kpwme93a5n6r6lw64ch6fmueuv8lzzaq6vf0y09z2ksj00zkmvxcpmx68ftk5lrsvnglasqqffhknm)
 
 {:.img-container}
 ![Coinbase](/assets/img/tutorials/viewmynft.webp)
