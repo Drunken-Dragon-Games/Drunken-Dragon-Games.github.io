@@ -17,4 +17,4 @@ title: Welcome Traveler
 
 ### **PixelTiles** are similar to Pokemon or Yu-Gi-Oh cards, limited quantity with some much rarer than others, assured by the Cardano blockchain.
 
-### New **PixelTiles** are forged constantly, follow our [Twitter](https://twitter.com/DNDCardanoPool) or join our [Discord](https://discord.gg/rwY7Vsjcnr) to stay up-to-date and ask any question!
+### New **PixelTiles** are forged constantly, follow our [Twitter](https://twitter.com/DNDCardanoGames) or join our [Discord](https://discord.gg/rwY7Vsjcnr) to stay up-to-date and ask any question!

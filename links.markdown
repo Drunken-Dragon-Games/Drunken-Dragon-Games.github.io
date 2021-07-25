@@ -6,7 +6,7 @@ layout: page
 title: Links
 ---
 
-[Twitter](https://twitter.com/DNDCardanoPool){:.button }
+[Twitter](https://twitter.com/DNDCardanoGames){:.button }
 
 [Discord](https://discord.gg/rwY7Vsjcnr){:.button }
 
