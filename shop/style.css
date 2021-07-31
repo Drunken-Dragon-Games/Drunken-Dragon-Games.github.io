@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 html, body {
     margin: 0;
@@ -11,16 +12,23 @@ body {
 }
 
 .main-container {
-    min-height: 100vh;
     max-width: 1400px !important;
     font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
     text-align: center;
     color: white;
-    background-color: #1F242BFF;
+    background-color: #1F242B;
 }
 
 .container a :hover {
     text-decoration: none;
+}
+
+.footer-shop a {
+    color: #FFCF40;
+}
+
+.footer-shop {
+    margin-top: 30px;
 }
 
 .adapt-img {
@@ -29,10 +37,12 @@ body {
 
 .header {
     text-align: left;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
 }
 
 .header a {
-    color: #FFCF40FF;
+    color: #FFCF40;
 }
 
 .header img {
@@ -41,14 +51,6 @@ body {
 
 .modal {
     color: black;
-}
-
-.footer a {
-    color: #FFCF40FF;
-}
-
-.footer {
-    margin-top: 30px;
 }
 
 .partner-project-info {
@@ -61,3 +63,28 @@ body {
 .partner-project-info a {
     color: #FFCF40FF;
 }
+
+.modal-footer {
+    border: 0px !important;
+}
+.modal-header {
+    border: 0px !important;
+}
+
+.pixel-font {
+    font-family: 'Press Start 2P', Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
+    font-size: 12px;
+}
+
+.footer {
+    text-align: left;
+}
+
+.footer h5 {
+    color: #ffcf40;
+}
+
+.footer a {
+    color: white;
+}
+
