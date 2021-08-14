@@ -11,6 +11,15 @@ body {
     width: 100vw;
 }
 
+.no-pixel-font {
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
+    text-align: center;
+}
+
+.pixel-font {
+    font-family: 'Press Start 2P', serif !important;
+}
+
 .main-container {
     max-width: 1400px !important;
 }
