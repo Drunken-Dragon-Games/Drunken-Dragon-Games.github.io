@@ -11,7 +11,15 @@
 <body>
     <div id="app">Loading...</div>
 	<script>
-		const elmConfig = {}
+		const elmConfig = {
+			furniture: {
+				amountPerPack: 3,
+				innKeeperConfig: {
+					baseUri: "https://inn-keeper.drunkendragon.games:13371",
+					shop: "/shop/furniture-packs"
+				}
+			}
+		}
 	</script>
     <script src="app.js"></script>
     <script src="scripts.js"></script>
