@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    width: 100vw;
+    background-color: white !important;
+    font-family: 'Press Start 2P', Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+}
+
+.main-container {
+    max-width: 1400px !important;
+    padding: 0px 15px;
+    color: #1e1e1e;
+}
+
+.container a :hover {
+    text-decoration: none;
+}
+
+.adapt-img {
+    max-width: 100%;
+}
+
+.header {
+    text-align: left;
+    margin-top: 15px !important;
+    margin-bottom: 15px !important;
+}
+
+.header a {
+    color: #FFCF40;
+}
+
+.modal-body {
+    text-align: center;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
+}
+.modal-footer {
+    border: 0px !important;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
+}
+.modal-header {
+    border: 0px !important;
+    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
+}
+
+.footer h5 {
+    color: #ffcf40;
+}
+.footer a {
+    color: white;
+}
+
+.scroll-overflow-without-bar::-webkit-scrollbar {
+    overflow: scroll;
+    display: none;
+}
+/* Hide scrollbar for IE, Edge and Firefox */
+.scroll-overflow-without-bar {
+    overflow: scroll;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
