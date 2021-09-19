@@ -8,7 +8,7 @@ html, body {
 body {
     min-height: 100vh;
     width: 100vw;
-    background-color: white !important;
+    background-color: #eee !important;
     font-family: 'Press Start 2P', Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
 }
 
