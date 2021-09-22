@@ -34,6 +34,7 @@ title: Get Started
 
 - [1 How to buy Cardano (ADA)](#1-how-to-buy-cardano-ada)
 - [2 Creating a Daedalus wallet and entering the Pixel Tile raffle](#2-creating-a-daedalus-wallet-and-entering-the-pixel-tile-raffle)
+	- [IMPORTANT: This tutorial uses Daedalus as an example, but staking and rewards work with other wallets that support Cardano staking and native assets, like Yoroi.](#important-this-tutorial-uses-daedalus-as-an-example-but-staking-and-rewards-work-with-other-wallets-that-support-cardano-staking-and-native-assets-like-yoroi)
 - [3 How to stake ADA with DND](#3-how-to-stake-ada-with-dnd)
 	- [When is the raffle?](#when-is-the-raffle)
 	- [Can't wait for the raffle?](#cant-wait-for-the-raffle)
@@ -82,6 +83,8 @@ Now that you have purchased your Cardano you now need to wait a minute or 2 for 
 
 {:.top-container}
 [Top](#table-of-content)
+
+### IMPORTANT: This tutorial uses Daedalus as an example, but staking and rewards work with other wallets that support Cardano staking and native assets, like Yoroi.
 
 Now that you have some Cardano ADA coins then next step would be to create a [Daedalus wallet](https://daedaluswallet.io/).
 
