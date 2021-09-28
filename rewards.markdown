@@ -12,7 +12,7 @@ title: Rewards
 
 The minimum delegation required to enter the raffle is 100 ADA.
 
-Every 1st and 15th of the month, delegators have the chance of being rewarded 1 PixelTile automatically based on a raffle system: The more you delegate, the greater your chance of getting a rare PixelTile. You must delegate for at least 1 complete epoch to enter the raffle.
+Every epoch, delegators have the chance of being rewarded 1 PixelTile automatically based on a raffle system: The more you delegate, the greater your chance of getting a rare PixelTile. You must delegate for at least 1 complete epoch to enter the raffle.
 
 You have nothing to do, Rewards arrive automatically!
 
