@@ -20,7 +20,6 @@ Because of the limited supply of Pixel Tiles we reward a limited amount of Pixel
 
 ## Reward System
 
-* There are 2 reward dates every month, the 1st and the 15th.
 * Rewards are given automatically.
 * A set of Epic, Rare, and Uncommon Pixel Tiles are raffled on each reward date to different delegators tiers.
 * Every 100 ADA delegated gives you 1 raffle ticket, every 1000 ADA gives you an extra raffle ticket bonus and every 10,000 ADA gives you another bonus raffle ticket, so for example, if you delegate 10,000 you will get 111 raffle tickets: 100 normal tickets, 10 for your 1,000's bonus, and 1 from your 10,000s bonus.
