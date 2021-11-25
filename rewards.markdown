@@ -8,15 +8,10 @@ title: Rewards
 
 ![Fourth Mint PixelTiles Banner](/assets/mints-banners/m4-banner.png)
 
-Our mission is to make people’s lives worth living by creating a dynamic universe to experience and share our love and passion for fantasy
+Our mission is to make people’s lives worth living by creating a dynamic universe to experience and share our love and passion for fantasy.
 
 We are building lore, a video game, NFT collectibles, and some un-announced experiences, all of these to build the Drunken Dragon universe for you to experience.
 For this, we need your support; one way to help us create this universe is by delegating your ADA to our pool!
-
-Ticker DND.Our mission is to make people’s life worth living by creating a dynamic universe where we can experience and share our love and passion for fantasy.
-
-We are building lore, a video game, NFT collectibles, and some un-announced creative experiences, all of these to build the Drunken Dragon universe.
-For this, we need your support, one way to help us create this universe is by delegating your ADA to our pool!
 
 Ticker DND.
 
