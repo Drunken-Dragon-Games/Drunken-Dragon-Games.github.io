@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 html, body {
     margin: 0;
@@ -8,52 +8,43 @@ html, body {
 body {
     min-height: 100vh;
     width: 100vw;
-    background-color: #eee !important;
-    font-family: 'Press Start 2P', Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+    background-color: #141a23 !important;
+    font-family: Open Sans,Arial,Helvetica,sans-serif;
+    color: #ebdec2;
+    background: url(/assets/background.png);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: "Oswald",Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-family: "Oswald",Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-family: "Oswald",Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+}
+
+h4 {
+    text-transform: uppercase;
+    font-family: "Oswald",Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
+}
+
+h5 {
+    text-transform: uppercase;
+    font-family: "Oswald",Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif;
 }
 
 .main-container {
     max-width: 1400px !important;
     padding: 0px 15px;
     color: #1e1e1e;
-}
-
-.container a :hover {
-    text-decoration: none;
-}
-
-.adapt-img {
-    max-width: 100%;
-}
-
-.header {
-    text-align: left;
-    margin-top: 15px !important;
-    margin-bottom: 15px !important;
-}
-
-.header a {
-    color: #FFCF40;
-}
-
-.modal-body {
-    text-align: center;
-    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
-}
-.modal-footer {
-    border: 0px !important;
-    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
-}
-.modal-header {
-    border: 0px !important;
-    font-family: Semplicita Pro,Open Sans,Arial,Helvetica,sans-serif !important;
-}
-
-.footer h5 {
-    color: #ffcf40;
-}
-.footer a {
-    color: white;
 }
 
 .scroll-overflow-without-bar::-webkit-scrollbar {
