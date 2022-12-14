@@ -11,8 +11,30 @@
 <body>
     <div id="app">Loading...</div>
 	<script>
-		const elmConfig = { innKeeperBaseUri : "https://inn-keeper.drunkendragon.games:8080" }
+		const elmConfig = { innKeeperBaseUri : "http://localhost:8080" }
 	</script>
     <script src="app.js"></script>
     <script src="scripts.js"></script>
+
+    <script type="text/javascript">
+        const OpenSaturnPayment = (policyId) => {
+
+            // Popup width and height
+            const popupWidth = 500;
+            const popupHeight = 700;
+
+            // Open popup in center of screen
+            const top = window.top.outerHeight / 2 + window.top.screenY - popupHeight / 2;
+            const left = window.top.outerWidth / 2 + window.top.screenX - popupWidth / 2;
+
+            // Open the Saturn Payment Gateway popup
+            const url = "https://saturnnft.io/mint/" + policyId;
+            const popup = window.open(
+                url,
+                "Saturn Payment Gateway",
+                `popup=1, location=1, width=${popupWidth}, height=${popupHeight}, top=${top}, left=${left}`,
+            );
+        };
+    </script>
+
 </body>
