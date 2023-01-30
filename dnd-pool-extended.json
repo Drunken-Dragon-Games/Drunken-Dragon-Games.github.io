@@ -1,10 +1,10 @@
 {
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
-        "location": "Amsterdam, Netherlands",
+        "url_png_icon_64x64": "https://www.drunkendragon.games/logo_64x64.png",
+        "url_png_logo": "https://www.drunkendragon.games/logo_400x400.png",
+        "location": "Puebla, Mexico",
         "social": {
-            "twitter_handle": "@DNDCardanoGames",
+            "twitter_handle": "@DrunkenDragnEnt",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -13,12 +13,12 @@
             "github_handle": ""
         },
         "company": {
-            "name": "",
-            "addr": "",
-            "city": "",
-            "country": "",
+            "name": "Drunken Dragon Entertainment S.A. de C.V.",
+            "addr": "Pase Sinfonia #4, 2-1A, 72830",
+            "city": "Puebla",
+            "country": "Mexico",
             "company_id": "",
-            "vat_id": ""
+            "vat_id": "DDE220613DN8"
         },
         "about": {
             "me": "",
